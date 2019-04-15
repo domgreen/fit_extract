@@ -1,0 +1,4 @@
+github.com/spf13/pflag v1.0.3 h1:zPAT6CGy6wXeQ7NtTnaTerfKOsV6V6F8agHXFiazDkg=
+github.com/spf13/pflag v1.0.3/go.mod h1:DYY7MBk1bdzusC3SYhjObp+wFpr4gzcvqqNjLnInEg4=
+github.com/strava/go.strava v0.0.0-20180612235916-99ebe972ba16 h1:EByiQtVco26j69tJGwr2EaeM+6AFJvz9hR6VwEWeUFQ=
+github.com/strava/go.strava v0.0.0-20180612235916-99ebe972ba16/go.mod h1:M6HqlQU01mCWZxTUI0n9XMxUOsJQpCwJbyq/w1j/Lkg=
